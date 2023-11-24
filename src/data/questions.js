@@ -2,7 +2,7 @@
 let questions = [
     {
       numb: 1,
-      category: "General Knowledge",
+      category: "Quantos mafagafas haviam no ninho de mafagafas?",
       type: "multiple",
       difficulty: "easy",
       question: "What does HTML stand for?",
@@ -87,6 +87,15 @@ let questions = [
       question: "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
       answer: "Richard Branson",
       options: ["Richard Branson","Alan Sugar", "Donald Trump", "Bill Gates"],
+    },
+    {
+      numb: 8,
+      category: "Jogo feito por quem?",
+      type: "multiple",
+      difficulty: "hard",
+      question: "Quem foi responsável por criar o jogo?",
+      answer: "Bruno",
+      options: ["Regis","Maneplay", "Bruno", "Bill Gates"],
     },
   ];
   
